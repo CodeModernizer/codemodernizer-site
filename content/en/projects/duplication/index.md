@@ -1,6 +1,6 @@
 ---
-title: "Libraries"
-weight: 4
+title: "Duplication detection"
+weight: 3
 resources:
     - src: libraries.png
       params:

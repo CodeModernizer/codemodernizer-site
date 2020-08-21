@@ -1,6 +1,6 @@
 ---
 title: "Builds"
-weight: 4
+weight: 5
 resources:
     - src: builds.png
       params:

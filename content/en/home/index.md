@@ -3,4 +3,4 @@ title: "Code Modernizer"
 headless: true
 ---
 
-Code Modernizer employs semi-automated techniques to evolve your Java code over time.
+Code Modernizer combines automation and quality programming to bring your Java code into modernity.

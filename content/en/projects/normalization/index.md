@@ -1,6 +1,6 @@
 ---
-title: "Language"
-weight: 3
+title: "Normalization"
+weight: 1
 resources:
     - src: syntax.png
       params:

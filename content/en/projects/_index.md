@@ -1,6 +1,6 @@
 ---
 title: "Code Modernizing"
-weight: 10
+weight: 3
 ---
 
-Syntax, Libraries, Build environment
+Normalization, Duplicate detection, Language structures, Libraries, Build environment
