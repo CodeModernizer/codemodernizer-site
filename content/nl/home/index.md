@@ -1,6 +1,6 @@
 ---
-title: "e2immu"
+title: "Code Modernizer"
 headless: true
 ---
 
-*Effective and Eventual Immutability* : een code analyser voor Java die helpt functioneel en objectgeoriënteerd programmeren te combineren.
+*Code Modernizer* : wij zorgen ervoor dat uw code niet veroudert.

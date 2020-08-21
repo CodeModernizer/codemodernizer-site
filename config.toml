@@ -1,4 +1,4 @@
-baseURL                          = "https://bnaudts.github.io/"
+baseURL                          = "https://www.codemodernizer.com/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
@@ -11,7 +11,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "bart.naudts@e2immu.org"   # E-mail address for contact section
+    email                        = "info@codemodernizer.com"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
@@ -50,7 +50,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         #icon  = "linkedin-in" # icon name without the 'fa-'
         #icon_pack = "fab"
     [[params.social]]
-        url = "mailto:bart.naudts@e2immu.org"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:info@codemodernizer.com" 
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     #[[params.social]]
@@ -81,7 +81,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "e2immu.org"
+        title            = "Code Modernizer"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
@@ -91,7 +91,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "nl"
         contentDir       = "content/nl"
         weight           = 2
-        title            = "e2immu.org"
+        title            = "Code Modernizer"
         [languages.de.params]
             dateFormat   = "2 January 2006"
             description  = "Beschrijving van de website"

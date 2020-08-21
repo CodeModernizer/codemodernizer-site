@@ -49,14 +49,14 @@
             {{ $pages = $pages | append . }}
         {{ end }}
 
-        {{ with .Site.GetPage "/projects" }}
+        {{ with .Site.GetPage "/modernizing" }}
             {{ $pages = $pages | append . }}
         {{ end }}
 
         {{ range sort $pages "Params.weight" }}
         {{ if ne .Name "contact.md" }}
         {{ if .File }}
-        {{ if eq (os.Stat .File.Dir).Name "projects" }}
+        {{ if eq (os.Stat .File.Dir).Name "modernizing" }}
             <!-- Now for some cool projects -->
             {{ partial "home/projects.html" . }}
         {{ else if eq (os.Stat .File.Dir).Name "blog" }}

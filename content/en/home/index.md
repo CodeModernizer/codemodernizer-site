@@ -1,6 +1,6 @@
 ---
-title: "e2immu"
+title: "Code Modernizer"
 headless: true
 ---
 
-Effective and Eventual Immutability: a Java code analyser that helps you bridge the gap between functional and object oriented programming.
+Code Modernizer employs semi-automated techniques to evolve your Java code over time.

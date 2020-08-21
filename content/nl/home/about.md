@@ -1,7 +1,7 @@
 ---
-title: "Over e2immu"
+title: "Over Code Modernizer"
 #image: "profile.jpg"
 weight: 8
 ---
 
-Dit is **e2immu**, binnenkort (oktober 2020) actief als open source project op GitHub.
+Dit is **Code Modernizer**, een nieuw bedrijf dat uw Java code modern houdt.
