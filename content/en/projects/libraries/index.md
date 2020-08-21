@@ -1,6 +1,10 @@
 ---
 title: "Libraries"
-weight: 2
+weight: 3
+resources:
+    - src: libraries.png
+      params:
+          weight: -100
 ---
 
 * Libraries change over time
